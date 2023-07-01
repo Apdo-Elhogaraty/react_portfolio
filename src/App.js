@@ -8,7 +8,7 @@ import { Footer } from "./component/Footer";
 
 function App() {
   return (
-    <div>
+    <div basename="/">
       <Header/>
       <HeroSection />
       <Skills />
